@@ -1,0 +1,7 @@
+name: "DERIVA Tutorial Sandbox"
+
+description: "A system for testing DERIVA catalog implementations."
+
+markdown: kramdown
+
+permalink: pretty
