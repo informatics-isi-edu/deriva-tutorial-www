@@ -11,4 +11,4 @@ title: DERIVA Tutorial Sandbox
 
 		https://tutorial.derivacloud.org/chaise/recordset/#<catalog_id>/<schema_name>:<table_name>
 
-    For example: `https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Collection`
+    For example: [`https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Collection`](https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Collection)
