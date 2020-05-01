@@ -1,8 +1,14 @@
 
 
-/* Using image for brand in navbar 
+/* Using image for brand in navbar
 Comment out the next two rules to use text instead
 */
+
+navbar {
+	height: 50px;
+	background-color: #000;
+	display: block;
+}
 
 a.navbar-brand {
 padding: 0;
@@ -267,7 +273,7 @@ visibility: hidden;
 }
 
 .panel-primary {
-    border-color: #727272; 
+    border-color: #727272;
 		border-color: #fff;
 }
 
@@ -277,7 +283,7 @@ visibility: hidden;
 	color: #C1C1C1;
 	padding: 10px;
 	text-align: center;
-	
+
 }
 
 #footer a {
@@ -589,7 +595,7 @@ visibility: hidden;
     }
 }
 
-/* Gene Expression Profiles 
+/* Gene Expression Profiles
 
 table td div {
 	width: 10px;
