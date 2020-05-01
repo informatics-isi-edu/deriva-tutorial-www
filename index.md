@@ -11,4 +11,11 @@ title: DERIVA Tutorial Sandbox
 
 		https://tutorial.derivacloud.org/chaise/recordset/#<catalog_id>/<schema_name>:<table_name>
 
-    For example: [`https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Collection`](https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Collection)
+    For example: [https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Collection](https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Collection)
+
+
+## Data model navigation
+
+The following clickable diagram illustrates the data model in this deployment. Click the data element to view available records in the catalog.
+
+<object type="image/svg+xml" data="/assets/img/tutorial.svg"></object>
