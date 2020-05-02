@@ -19,22 +19,22 @@
 <g id="clust2">
 	<title>cluster_Vocabulary</title>
 </g>
-<a id="node1" xlink:href="/chaise/recordset/#1/Data:Specimen@sort(RID)" >
+<a id="node1" xlink:href="/chaise/recordset/#1/Data:Specimen" >
 	<g>
 		<title>Data_Specimen</title>
 		<g id="a_node1">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Specimen" >
+			<a xlink:href="/chaise/recordset/#1/Data:Specimen" >
 				<polygon class="st1" points="320.8,351.5 219.8,351.5 219.8,387.5 320.8,387.5 				"/>
 				<text transform="matrix(1 0 0 1 227.5688 373.7041)" class="st2 st3">Data:Specimen</text>
 			</a>
 		</g>
 	</g>
 </a>
-<a id="node7" xlink:href="/chaise/recordset/#1/Vocabulary:Species@sort(RID)" >
+<a id="node7" xlink:href="/chaise/recordset/#1/Vocabulary:Species" >
 	<g>
 		<title>Vocabulary_Species</title>
 		<g id="a_node7">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Vocabulary:Species" >
+			<a xlink:href="/chaise/recordset/#1/Vocabulary:Species" >
 				<ellipse class="st1" cx="92.7" cy="288.2" rx="79.8" ry="18"/>
 				<text transform="matrix(1 0 0 1 37.6084 292.376)" class="st2 st3">Vocabulary:Species</text>
 			</a>
@@ -46,11 +46,11 @@
 	<path class="st1" d="M230.9,351.5c-27.6-12.7-64.6-29.6-93.4-42.8"/>
 	<polygon class="st4" points="135.7,311.7 128.1,304.4 138.6,305.4 	"/>
 </g>
-<a id="node8" xlink:href="/chaise/recordset/#1/Vocabulary:Sex@sort(RID)" >
+<a id="node8" xlink:href="/chaise/recordset/#1/Vocabulary:Sex" >
 	<g>
 		<title>Vocabulary_Sex</title>
 		<g id="a_node8">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Vocabulary:Sex" >
+			<a xlink:href="/chaise/recordset/#1/Vocabulary:Sex" >
 				<ellipse class="st1" cx="588.8" cy="412.2" rx="65.9" ry="18"/>
 				<text transform="matrix(1 0 0 1 544.6523 416.3877)" class="st2 st3">Vocabulary:Sex</text>
 			</a>
@@ -62,11 +62,11 @@
 	<path class="st1" d="M321.1,376.3c53.6,7.2,138.5,18.6,198.3,26.6"/>
 	<polygon class="st4" points="520.1,399.4 529.5,404.2 519.1,406.4 	"/>
 </g>
-<a id="node9" xlink:href="/chaise/recordset/#1/Vocabulary:Stage@sort(RID)" >
+<a id="node9" xlink:href="/chaise/recordset/#1/Vocabulary:Stage" >
 	<g>
 		<title>Vocabulary_Stage</title>
 		<g id="a_node9">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Vocabulary:Stage" >
+			<a xlink:href="/chaise/recordset/#1/Vocabulary:Stage" >
 				<ellipse class="st1" cx="96.6" cy="464" rx="72.1" ry="18"/>
 				<text transform="matrix(1 0 0 1 47.4053 468.167)" class="st2 st3">Vocabulary:Stage</text>
 			</a>
@@ -78,11 +78,11 @@
 	<path class="st1" d="M236.8,387.7c-28.9,15.7-70.5,38.4-101,54.9"/>
 	<polygon class="st4" points="137.3,445.8 126.8,447.5 133.9,439.7 	"/>
 </g>
-<a id="node10" xlink:href="/chaise/recordset/#1/Vocabulary:Assay_Type@sort(RID)" >
+<a id="node10" xlink:href="/chaise/recordset/#1/Vocabulary:Assay_Type" >
 	<g>
 		<title>Vocabulary_Assay_Type</title>
 		<g id="a_node10">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Vocabulary:Assay_Type" >
+			<a xlink:href="/chaise/recordset/#1/Vocabulary:Assay_Type" >
 				<ellipse class="st1" cx="260.9" cy="489.7" rx="96" ry="18"/>
 				<text transform="matrix(1 0 0 1 192.7461 493.9072)" class="st2 st3">Vocabulary:Assay_Type</text>
 			</a>
@@ -94,11 +94,11 @@
 	<path class="st1" d="M268.9,387.5c-1.5,19.6-4,51.1-5.8,74"/>
 	<polygon class="st4" points="266.6,461.9 262.3,471.6 259.6,461.3 	"/>
 </g>
-<a id="node11" xlink:href="/chaise/recordset/#1/Vocabulary:Anatomy@sort(RID)" >
+<a id="node11" xlink:href="/chaise/recordset/#1/Vocabulary:Anatomy" >
 	<g>
 		<title>Vocabulary_Anatomy</title>
 		<g id="a_node11">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Vocabulary:Anatomy" >
+			<a xlink:href="/chaise/recordset/#1/Vocabulary:Anatomy" >
 				<ellipse class="st1" cx="432.4" cy="467.5" rx="85.6" ry="18"/>
 				<text transform="matrix(1 0 0 1 372.6484 471.7061)" class="st2 st3">Vocabulary:Anatomy</text>
 			</a>
@@ -110,22 +110,22 @@
 	<path class="st1" d="M300.4,387.7c26.9,16.3,66.3,40.1,95.1,57.5"/>
 	<polygon class="st4" points="397.3,442.2 404.1,450.4 393.7,448.2 	"/>
 </g>
-<a id="node2" xlink:href="/chaise/recordset/#1/Data:Study@sort(RID)" >
+<a id="node2" xlink:href="/chaise/recordset/#1/Data:Study" >
 	<g>
 		<title>Data_Study</title>
 		<g id="a_node2">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Study" >
+			<a xlink:href="/chaise/recordset/#1/Data:Study" >
 				<polygon class="st1" points="368.5,118.3 289.5,118.3 289.5,154.3 368.5,154.3 				"/>
 				<text transform="matrix(1 0 0 1 297.4873 140.4653)" class="st2 st3">Data:Study</text>
 			</a>
 		</g>
 	</g>
 </a>
-<a id="node3" xlink:href="/chaise/recordset/#1/Data:Collection@sort(RID)" >
+<a id="node3" xlink:href="/chaise/recordset/#1/Data:Collection" >
 	<g>
 		<title>Data_Collection</title>
 		<g id="a_node3">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Collection" >
+			<a xlink:href="/chaise/recordset/#1/Data:Collection" >
 				<polygon class="st1" points="409.8,4.3 305.6,4.3 305.6,40.3 409.8,40.3 				"/>
 				<text transform="matrix(1 0 0 1 313.3672 26.4897)" class="st2 st3">Data:Collection</text>
 			</a>
@@ -138,11 +138,11 @@
 	<polygon class="st6" points="339.4,109.4 333.5,118.2 332.6,107.7 	"/>
 	<polygon class="st6" points="347.2,49.5 353.1,40.6 354,51.2 	"/>
 </g>
-<a id="node4" xlink:href="/chaise/recordset/#1/Data:Experiment@sort(RID)" >
+<a id="node4" xlink:href="/chaise/recordset/#1/Data:Experiment" >
 	<g>
 		<title>Data_Experiment</title>
 		<g id="a_node4">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Experiment" >
+			<a xlink:href="/chaise/recordset/#1/Data:Experiment" >
 				<polygon class="st1" points="276.1,198.8 164.9,198.8 164.9,234.8 276.1,234.8 				"/>
 				<text transform="matrix(1 0 0 1 172.7383 220.9639)" class="st2 st3">Data:Experiment</text>
 			</a>
@@ -154,11 +154,11 @@
 	<path class="st1" d="M244.9,198.7c15.2-11.3,35-26,51.5-38.3"/>
 	<polygon class="st4" points="294.6,157.4 304.7,154.3 298.8,163 	"/>
 </g>
-<a id="node12" xlink:href="/chaise/recordset/#1/Vocabulary:Molecule_Type@sort(RID)" >
+<a id="node12" xlink:href="/chaise/recordset/#1/Vocabulary:Molecule_Type" >
 	<g>
 		<title>Vocabulary_Molecule_Type</title>
 		<g id="a_node12">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Vocabulary:Molecule_Type" >
+			<a xlink:href="/chaise/recordset/#1/Vocabulary:Molecule_Type" >
 				<ellipse class="st1" cx="112" cy="68" rx="108" ry="18"/>
 				<text transform="matrix(1 0 0 1 34.5137 72.2417)" class="st2 st3">Vocabulary:Molecule_Type</text>
 			</a>
@@ -170,22 +170,22 @@
 	<path class="st1" d="M207.2,198.5c-19.1-26.1-54.2-74.3-76.1-104.3"/>
 	<polygon class="st4" points="128.1,96.1 125.1,86 133.8,92 	"/>
 </g>
-<a id="node5" xlink:href="/chaise/recordset/#1/Data:File@sort(RID)" >
+<a id="node5" xlink:href="/chaise/recordset/#1/Data:File" >
 	<g>
 		<title>Data_File</title>
 		<g id="a_node5">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Data:File" >
+			<a xlink:href="/chaise/recordset/#1/Data:File" >
 				<polygon class="st1" points="524.2,229.9 456.1,229.9 456.1,265.8 524.2,265.8 				"/>
 				<text transform="matrix(1 0 0 1 464.1201 252.0415)" class="st2 st3">Data:File</text>
 			</a>
 		</g>
 	</g>
 </a>
-<a id="node6" xlink:href="/chaise/recordset/#1/Data:Replicate@sort(RID)" >
+<a id="node6" xlink:href="/chaise/recordset/#1/Data:Replicate" >
 	<g>
 		<title>Data_Replicate</title>
 		<g id="a_node6">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Data:Replicate" >
+			<a xlink:href="/chaise/recordset/#1/Data:Replicate" >
 				<polygon class="st1" points="409.5,274.9 310.2,274.9 310.2,310.9 409.5,310.9 				"/>
 				<text transform="matrix(1 0 0 1 318.3154 297.1338)" class="st2 st3">Data:Replicate</text>
 			</a>
@@ -197,11 +197,11 @@
 	<path class="st1" d="M455.9,259.7c-11.3,3.9-24.2,8.4-36.8,12.7"/>
 	<polygon class="st4" points="420.2,275.8 409.6,275.7 417.9,269.2 	"/>
 </g>
-<a id="node13" xlink:href="/chaise/recordset/#1/Vocabulary:File_Type@sort(RID)" >
+<a id="node13" xlink:href="/chaise/recordset/#1/Vocabulary:File_Type" >
 	<g>
 		<title>Vocabulary_File_Type</title>
 		<g id="a_node13">
-			<a xlink:href="https://tutorial.derivacloud.org/chaise/recordset/#1/Vocabulary:File_Type" >
+			<a xlink:href="/chaise/recordset/#1/Vocabulary:File_Type" >
 				<ellipse class="st1" cx="572.6" cy="89.6" rx="88.3" ry="18"/>
 				<text transform="matrix(1 0 0 1 510.6719 93.8232)" class="st2 st3">Vocabulary:File_Type</text>
 			</a>
