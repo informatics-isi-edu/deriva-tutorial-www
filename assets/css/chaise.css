@@ -1,4 +1,4 @@
-/* Data Browser spinner 
+/* Data Browser spinner
 
 #spinner {
     position: fixed;
@@ -19,6 +19,16 @@ navbar {
 	background-color: #150805;
 	border-color: #150805;
 }
+
+span#brand-text {
+  text-indent: -999px;
+  background: url(/assets/img/deriva-h50-simple.png) no-repeat;
+  height: 50px;
+  display: block;
+  width: 170px;
+  background-size: contain;
+}
+
 /*
 @media (min-width: 768px) {
   #mainnav .container-fluid {

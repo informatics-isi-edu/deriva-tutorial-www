@@ -14,14 +14,8 @@ a.navbar-brand {
 padding: 0;
 }
 
-span#brand-text {
-  text-indent: -999px;
-  background: url(/assets/img/deriva-h50-simple.png) no-repeat;
-  height: 50px;
-  display: block;
-  width: 170px;
-  background-size: contain;
-}
+
+
 
 /* The rest of the custom stylesheet */
 
@@ -33,7 +27,7 @@ html,body {
 	height: 100%;
 }
 
- body { padding-top: 70px; color: #212121; font-size: 16px;}
+ body { color: #212121; font-size: 16px;}
 
  h1, h2, h3 {
   margin-top: 20px;
