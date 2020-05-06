@@ -20,6 +20,8 @@ navbar {
 	border-color: #150805;
 }
 
+/* uncomment if you want the deriva brand logo to show
+
 span#brand-text {
   text-indent: -999px;
   background: url(/assets/img/deriva-h50-simple.png) no-repeat;
@@ -28,6 +30,12 @@ span#brand-text {
   width: 170px;
   background-size: contain;
 }
+
+a.navbar-brand {
+    padding: 0;
+}
+
+*/
 
 /*
 @media (min-width: 768px) {

@@ -10,11 +10,24 @@ navbar {
 	display: block;
 }
 
-a.navbar-brand {
-padding: 0;
+
+
+/* uncomment if you want the deriva brand logo to show
+
+span#brand-text {
+  text-indent: -999px;
+  background: url(/assets/img/deriva-h50-simple.png) no-repeat;
+  height: 50px;
+  display: block;
+  width: 170px;
+  background-size: contain;
 }
 
+a.navbar-brand {
+    padding: 0;
+}
 
+*/
 
 
 /* The rest of the custom stylesheet */
